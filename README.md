@@ -42,9 +42,11 @@ Convert the digital libraries into an ICT Hub, with internet capability while pr
 
 
 ### Implementation Guidelines
-Permanent structures owned by communities are strongly advised, the structures must paint the pan African dream. Deliberately designed with African Art, Africa aesthetics which is intended to build the long lost patriotism in our people.
+The library can take on any name agreed by the implementation partners
 
-This space will be in charge of documenting the history of that community, language preservation through visual arts, drama, African poetry, Music. Serve as an entry point for tourist into the community. Also document individual, government and private sector effort at building their community.
+Permanent structures owned by the community are strongly advised, the structures must paint the Pan-African dream. Deliberately designed with African Art, Africa aesthetics which is intended to build the long lost patriotism in our people.
+
+This space will be in charge of documenting the history of that community, language preservation through visual arts, drama, African poetry, Music. Serve as an entry point for tourist into the community. Also document individual's, government and private sector effort at building their community.
 
 ## Sustainability Plan
 
@@ -52,6 +54,7 @@ This space will be in charge of documenting the history of that community, langu
 - The steering committee will consist of the implementation partners and the village head.
 - The steering committee will be published for accessibility and accountability purposes.
 - The steering committee will be on voluntary bases
+- New implementation partner may be added but agreed upon by the steering committee and published publicly.
 - donations to the library must be documented and in public domain
 - The manager of the library will be appointed by the steering committee and this position may or may not be permanent and reports to the steering committee
 - The manager may or may not be paid
@@ -72,6 +75,7 @@ This space will be in charge of documenting the history of that community, langu
 ### The role of the volonteers
 - To work with manager to develop ideas that will foster the growth of the library and by extension, the community.
 - To participate in library activities
+- Carry out research about the community on various interests and continually measure the educational penetration of there.
 
 ### Social contract with the community
 1. No Discrimination Against Persons or Groups
@@ -79,3 +83,20 @@ This space will be in charge of documenting the history of that community, langu
 
 
 # Implementation Ideas
+This project is a decentralized system inspired by the #EndSARS movement. 
+While there will be libraries spread across Plateau State, the implementation of this framework allows for each library be able to make its own decision based on the peculiary of the community through its steering community. The use of tech/app will be helpful in measuring the performance, Promote Transparency, Q and A, receive all forms of donations, handle research publications and collaborate with other libraries within the network.
+
+## Tech/App Features
+- All registered users will have a user ID
+- Access Roles are
+ - Manager
+ - Library Admin (The Steering Committee)
+ - Member
+ - Admin
+- Admin should be able to create a library and assign any of the access roles on the library
+- The "Library Admin" should be able to add Manager (using their user IDs)
+- Manager should be able to register a Member
+- Manager should be able to indicate who has paid (Soujouner or Monthly)
+- QA module scoped to the Library but accessible to all
+
+ 
