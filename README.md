@@ -8,6 +8,17 @@ This structure is a think tank, the ight house, the aluta square of the communit
 
 It can also serve as a town hall meeting spot between people, people and government to brainstorm on ideas that will proffer solution to issues facing their community.
 
+This initiative is an immediate call to solve the #EndSARS problem through the enlightenment of the rural, the biggest determinant of any election. The guideline to achieve this will be driven through various programmes at the library centered around the following theme.
+
+- Youth governance
+- Identity
+- Pan-Africanism
+- Voter Education
+- Individualism
+- Edutainment
+- Gamification
+
+
 ## 2021 - 2022
 Install public libraries in every community in plateau state such that accessibility to them from any village is of outmost importance. Consider and add existing libraries into the cluster.
 
