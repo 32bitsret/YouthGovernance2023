@@ -107,5 +107,5 @@ While there will be libraries spread across Plateau State, the implementation of
 - Manager should be able to enter the record of donors by their name (non user) or by their user ID and type of donations e.g Cash, Book
 - Manager should be able to enter the book titles, ISBN, and other materials that can be found In the library
 - QA module scoped to the library but accessible to all
-- Members will be able to select the library to donate to. Payment in Nair
+- Members will be able to select the library to donate to. Payment in Naira
  
