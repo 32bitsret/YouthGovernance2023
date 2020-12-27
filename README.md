@@ -1,14 +1,17 @@
 # Building a model for youth governance in Plateau State.
 
-This structure is a think tank, the light house, the aluta square of the community aimed at bringing  together people (children, women and men) to participate in, contribute to and benefit from growth processes in ways that recognises the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth.
+There is a huge knowledge gap between the Nigerian youths who account for the most population and the old who are ruling the Nigerian state. This is why the youth are dissatified with policies around them. This is also the root cause of the #EndSAR movement. The old do not understand you could be young and successful, and they keep getting killed by it without justice. This knowledge gap is complemented by huge curruption in the system due to bad governance. Never before have the youth come together to protest against bad governance in a discentralized manner and they did that using constitional means. They took it further by feeding themselves and cleaning up the streets. The government launched a counter attack that led to the death of young people thereby bringing the protest to end.
 
-It can also serve as a town hall meeting spot between people, people and government to brainstorm on ideas that will proffer solution to issues facing their community.
+At the heat of the protest, the protest was considered by many to be an elitcit struggle, and that can not be far from the truth but fighting for everyone (including the unaware) to be kept safe in consititional manner is humanity. And so young people kept it positive and controlling the narrative almost against the government, and government on the other hand used the traditional media they control to reach out to the other demographics to make the EndSARS movement look bad. The protest ended via a counter protest and the enforcement of lockdown in Jos and Lagos on the 20th Dec. 2019. This further called for the sensitization of the public using the traditional print media distributed using door to door but this was not sustainble in the long term hence a need to continously pass the message of youth governance in every community in Plateau State. The enlightenment of the rural is inminent towards solving and tackling the root cause of EndSARS which is diminishing the knowledge gap and Rural because it is the biggest determinant of election.
 
-This initiative is an immediate call to solve the #EndSARS problem through the enlightenment of the rural, the biggest determinant of any election. The guideline to achieve this will be driven through various programmes at the library centered around the following theme.
+The proposed structure will be installed in every community and to takes the form of a library which will represents a think tank, or the light house, the aluta square of the community aimed at bringing together people (children, women and men) to participate in, contribute to and benefit from growth processes in ways that recognises the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth. It can also serve as a town hall meeting spot between people, people and government to brainstorm on ideas that will proffer solution to issues facing their community.
+
+The guideline to achieve this will be driven through various programmes at the library centered around the following theme.
 
 - Youth governance
 - Good Governance
 - Identity
+- Civic Education
 - Pan-Africanism
 - Voter Education
 - Individualism
