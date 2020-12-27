@@ -16,19 +16,20 @@ This initiative is an immediate call to solve the #EndSARS problem through the e
 - Gamification
 
 
-## 2021 - 2022
+## Timeline
+### 2021 - 2022
 Install public libraries in every community in plateau state such that accessibility to them from any village is of outmost importance. Consider and add existing libraries into the cluster.
 
-### The minimum requirements to have in the library
+#### The minimum requirements to have in the library
  - *Books* for knowledge development
  - *Chess* for Strategy development
  - *Monopoly* for Business and Investments
  - *Scrabbles* for vocabulary development
 
-## 2022 - 2023
+### 2022 - 2023
 To add digital to the legacy libraries without distorting its original form. Put in place low-cost embedded systems, smart phones, computers to host millions of books, audio and video materials accessible without internet connectivity.
 
-### The minimum requirements to have in the library
+#### The minimum requirements to have in the library
 - 10 Smart Phones
 - 1 Router
 - 1 Laptop
@@ -36,7 +37,7 @@ To add digital to the legacy libraries without distorting its original form. Put
 - Battery
 - Inverter
 
-## 2023 - 2027
+### 2023 - 2027
 Convert the digital libraries into an ICT Hub, with internet capability while preserving the original form – The legacy library and the digital library.
 
 
