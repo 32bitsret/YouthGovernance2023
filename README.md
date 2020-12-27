@@ -50,18 +50,25 @@ This space will be in charge of documenting the history of that community, langu
 
 ## Sustainability Plan
 
+### The steering committee
 - A steering committee will be created to oversee the management of the library
 - The steering committee will consist of the implementation partners and the village head.
 - The steering committee will be published for accessibility and accountability purposes.
 - The steering committee will be on voluntary bases
 - New implementation partner may be added but agreed upon by the steering committee and published publicly.
-- donations to the library must be documented and in public domain
+- Donations to the library must be documented and in public domain
+
+### The Library Manager
 - The manager of the library will be appointed by the steering committee and this position may or may not be permanent and reports to the steering committee
 - The manager may or may not be paid
+- The library can own items or things that are rentable to the community at a fee set by the manager
+
+### Membership
 - A monthly membership fee for community members will be set by the steering communities. E.g. 50 to 200 Naira
-- The library will make room for accommodation of volunteers who may travel from afar    
 - A one time access fee for sojourners to be set by the steering committee. E.g 200 Naira
-- The library should be able to own things that are rentable to the community at a fee set by the manager
+
+### Volonteers
+- The library will make room for accommodation of volunteers who may travel from afar  
 - The volunteers may or may not be paid
 - The volunteers may or may not be fed
 
@@ -81,22 +88,22 @@ This space will be in charge of documenting the history of that community, langu
 1. No Discrimination Against Persons or Groups
 2. No Discrimination Against Fields of Endeavor
 
-
 # Implementation Ideas
 This project is a decentralized system inspired by the #EndSARS movement. 
 While there will be libraries spread across Plateau State, the implementation of this framework allows for each library be able to make its own decision based on the peculiary of the community through its steering community. The use of tech/app will be helpful in measuring the performance, Promote Transparency, Q and A, receive all forms of donations, handle research publications and collaborate with other libraries within the network.
 
-## Tech/App Features
-- All registered users will have a user ID
+## Tech/App Features (Minimum Viable Product)
+- Registered users will have a user ID
 - Access Roles are
  - Manager
- - Library Admin (The Steering Committee)
- - Member
+ - Library Admin (The steering committee)
+ - Member (Default)
  - Admin
 - Admin should be able to create a library and assign any of the access roles on the library
-- The "Library Admin" should be able to add Manager (using their user IDs)
-- Manager should be able to register a Member
-- Manager should be able to indicate who has paid (Soujouner or Monthly)
-- QA module scoped to the Library but accessible to all
+- The "Library Admin" should be able to add manager (using their user IDs)
+- Manager should be able to register a member
+- Manager should be able to create event
+- Manager should be able to indicate who has paid (Soujouner or Monthly). Date can be selected but defaults to current date.
+- QA module scoped to the library but accessible to all
 
  
