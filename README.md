@@ -95,10 +95,10 @@ While there will be libraries spread across Plateau State, the implementation of
 ## Tech/App Features (Minimum Viable Product)
 - Registered users will have a user ID
 - Access Roles are
- - Manager
- - Library Admin (The steering committee)
- - Member (Default)
- - Admin
+ + Manager
+ + Library Admin (The steering committee)
+ + Member (Default)
+ + Admin
 - Admin should be able to create a library and assign any of the access roles on the library
 - The "Library Admin" should be able to add manager (using their user IDs)
 - Manager should be able to register a member
