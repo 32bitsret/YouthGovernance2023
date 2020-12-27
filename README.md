@@ -63,11 +63,11 @@ This space will be in charge of documenting the history of that community, langu
 - The manager may or may not be paid
 - The library can own items or things that are rentable to the community at a fee set by the manager
 
-### Membership
+### Members
 - A monthly membership fee for community members will be set by the steering communities. E.g. 50 to 200 Naira
 - A one time access fee for sojourners to be set by the steering committee. E.g 200 Naira
 
-### Volonteers
+### Volunteers
 - The library will make room for accommodation of volunteers who may travel from afar  
 - The volunteers may or may not be paid
 - The volunteers may or may not be fed
@@ -79,7 +79,7 @@ This space will be in charge of documenting the history of that community, langu
 - Create initiatives for raising fund
 - Give reports about library activities to the committee
 
-### The role of the volonteers
+### The role of the volunteers
 - To work with manager to develop ideas that will foster the growth of the library and by extension, the community.
 - To participate in library activities
 - Carry out research about the community on various interests and continually measure the educational penetration of there.
@@ -104,6 +104,8 @@ While there will be libraries spread across Plateau State, the implementation of
 - Manager should be able to register a member
 - Manager should be able to create event
 - Manager should be able to indicate who has paid (Soujouner or Monthly). Date can be selected but defaults to current date.
+- Manager should be able to enter the record of donors by their name (non user) or by their user ID and type of donations e.g Cash, Book
+- Manager should be able to enter the book titles, ISBN, and other materials that can be found In the library
 - QA module scoped to the library but accessible to all
-
+- Members will be able to select the library to donate to. Payment in Nair
  
