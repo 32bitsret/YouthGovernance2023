@@ -1,16 +1,13 @@
 # Building a model for youth governance in Plateau State.
 
-Permanent structures owned by communities are strongly advised, the structures must paint the pan African dream. Deliberately designed with African Art, Africa aesthetics which is intended to build the long lost patriotism in our people.
-
-This space will be in charge of documenting the history of that community, language preservation through visual arts, drama, African poetry, Music. Serve as an entry point for tourist into the community. Also document individual, government and private sector effort at building their community.
-
-This structure is a think tank, the ight house, the aluta square of the community aimed at bringing  together people (children, women and men) to participate in, contribute to and benefit from growth processes in ways that recognises the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth.
+This structure is a think tank, the light house, the aluta square of the community aimed at bringing  together people (children, women and men) to participate in, contribute to and benefit from growth processes in ways that recognises the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth.
 
 It can also serve as a town hall meeting spot between people, people and government to brainstorm on ideas that will proffer solution to issues facing their community.
 
 This initiative is an immediate call to solve the #EndSARS problem through the enlightenment of the rural, the biggest determinant of any election. The guideline to achieve this will be driven through various programmes at the library centered around the following theme.
 
 - Youth governance
+- Good Governance
 - Identity
 - Pan-Africanism
 - Voter Education
@@ -42,6 +39,12 @@ To add digital to the legacy libraries without distorting its original form. Put
 ## 2023 - 2027
 Convert the digital libraries into an ICT Hub, with internet capability while preserving the original form – The legacy library and the digital library.
 
+
+### Implementation Guidelines
+Permanent structures owned by communities are strongly advised, the structures must paint the pan African dream. Deliberately designed with African Art, Africa aesthetics which is intended to build the long lost patriotism in our people.
+
+This space will be in charge of documenting the history of that community, language preservation through visual arts, drama, African poetry, Music. Serve as an entry point for tourist into the community. Also document individual, government and private sector effort at building their community.
+
 ## Sustainability Plan
 
 - A steering committee will be created to oversee the management of the library
@@ -58,18 +61,18 @@ Convert the digital libraries into an ICT Hub, with internet capability while pr
 - The volunteers may or may not be paid
 - The volunteers may or may not be fed
 
-## The role of the manager
+### The role of the manager
 - To open and close the library
 - Manage and work with the volunteers
 - Develop curriculum/programmes/timetables for library activities
 - Create initiatives for raising fund
 - Give reports about library activities to the committee
 
-## The role of the volonteers
+### The role of the volonteers
 - To work with manager to develop ideas that will foster the growth of the library and by extension, the community.
 - To participate in library activities
 
-## Social contract with the community
+### Social contract with the community
 1. No Discrimination Against Persons or Groups
 2. No Discrimination Against Fields of Endeavor
 
