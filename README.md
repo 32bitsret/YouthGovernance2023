@@ -40,7 +40,7 @@ Convert the digital libraries into an ICT Hub, with internet capability while pr
 - donations to the library must be documented and in public domain
 - The manager of the library will be appointed by the steering committee and this position may or may not be permanent and reports to the steering committee
 - The manager may or may not be paid
-- A monthly membership fee for regulars will be set by the steering communities. E.g. 50 to 200 Naira
+- A monthly membership fee for community members will be set by the steering communities. E.g. 50 to 200 Naira
 - The library will make room for accommodation of volunteers who may travel from afar    
 - A one time access fee for sojourners to be set by the steering committee. E.g 200 Naira
 - The library should be able to own things that are rentable to the community at a fee set by the manager
