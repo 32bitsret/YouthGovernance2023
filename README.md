@@ -51,7 +51,7 @@ To add digital to the legacy libraries without distorting its original form. Put
 - Inverter
 
 ### 2023 - 2027
-Convert the digital libraries into an ICT Hub, with internet capability while preserving the original form – The legacy library and the digital library.
+Convert the digital libraries into an ICT/Creative Hub, with internet capability while preserving the original form – The legacy library and the digital library.
 
 
 ### Implementation Guidelines
