@@ -1,21 +1,20 @@
 # Building a model for youth governance in Plateau State.
+There is a huge knowledge gap between the Nigerian youths who account for the most population and the old who are ruling the Nigerian state. This is why the youths are dissatisfied with the policies around them. 
 
-There is a huge knowledge gap between the Nigerian youths who account for the most population and the old who are ruling the Nigerian state. This is why the youths are dissatisfied with policies around them. 
+This is also the root cause of the #EndSARS movement. The older generation does not understand that times are changing and one could be young and successful. This lack of understanding has made it seem like young people are criminals, so they keep getting arrested or killed without justice.
 
-This is also the root cause of the #EndSARS movement. The older generation do not understand that times are changing and one could be young and successful. This lack of understanding has made it seem like young people are criminals, so they keep getting  arrested, or killed without justice.
+This knowledge gap and bad governance have led to a huge corruption in the system. Never before have the youths come together to protest against bad governance in a decentralized manner, and they did that using constitutional means. They took it further by feeding themselves and cleaning up the streets. 
+At the heart of the protest, the protest was considered by many to be an elitist struggle, and that can not be far from the truth. However, fighting for everyone (including the unaware) to be kept safe in a constitutional manner is humanity. 
 
-This  knowledge gap and bad governance has led to a huge corruption in the system.. Never before have the youths come together to protest against bad governance in a decentralized manner, and they did that using constitutional means. They took it further by feeding themselves and cleaning up the streets. 
-At the heat of the protest, the protest was considered by many to be an elitist struggle, and that can not be far from the truth. However, fighting for everyone (including the unaware) to be kept safe in a constitutional manner is humanity. 
-
-In all these, young people kept it positive by controlling the narrative on social media, almost against the government. The  government on the other hand used the traditional media they control to reach out to the other demographics  who were not conversant with the internet to make the EndSARS movement look bad. They also went as far as orchestrating counter attacks that led to the death of young people thereby bringing the protest to an end.
+In all these, young people kept it positive by controlling the narrative on social media, almost against the government. The government on the other hand used the traditional media they control to reach out to the other demographics who were not conversant with the internet to make the EndSARS movement look bad. They also went as far as orchestrating counterattacks that led to the death of young people thereby bringing the protest to an end.
 
 Thereafter there was an enforcement of lockdown in Jos and Lagos on the 20th Dec. 2020. This further called for the sensitization of the public using traditional print media distributed door to door, but this was not sustainable in the long term hence a need to continually pass the message of youth governance in every community in Plateau State. 
 
-The enlightenment of the rural communities is imminent towards solving and tackling the root cause of EndSARS. Not only that, politics is local, and the knowledge gap between the urban  and Rural populace is the biggest determinant of election.
+The enlightenment of the rural communities is imminent towards solving and tackling the root cause of EndSARS. Not only that, politics is local, and the knowledge gap between the urban and rural populace is the biggest determinant of the outcome of an election.
 
-The proposed structure will be installed in every community and will take the form of a library which will represent a think tank, lighthouse and  the aluta square of the community. It is  aimed at bringing together people (children, women and men) to participate in, contribute to and benefit from growth processes in ways that recognise the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth. 
+The proposed structure will be installed in every community and will take the form of a library which will represent a think tank, lighthouse, and the aluta square of the community. It is aimed at bringing together people (children, women, and men) to participate in, contribute to and benefit from growth processes in ways that recognize the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth. 
 
-It can also serve as a  spot for the people of the community to brainstorm amongst themselves   and also a meeting point for the people and government to share ideas that will proffer solutions to issues facing their community.
+It can also serve as a spot for the people of the community to brainstorm amongst themselves and also a meeting point for the people and government to share ideas that will proffer solutions to issues facing their community.
 
 The guideline to achieve this will be driven through various programmes at the library centered around the following theme.
 
