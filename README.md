@@ -1,4 +1,6 @@
 # Building a model for youth governance in Plateau State.
+Youth governance is young people coming together to proffer solution to the problems affecting them in their communities.
+
 There is a huge knowledge gap between the Nigerian youths who account for the most population and the old who are ruling the Nigerian state. This is why the youths are dissatisfied with the policies around them. 
 
 This is also the root cause of the #EndSARS movement. The older generation does not understand that times are changing and one could be young and successful. This lack of understanding has made it seem like young people are criminals, so they keep getting arrested or killed without justice.
