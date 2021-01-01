@@ -12,7 +12,7 @@ Thereafter there was an enforcement of lockdown in Jos and Lagos on the 20th Dec
 
 The enlightenment of the rural communities is imminent towards solving and tackling the root cause of EndSARS. Not only that, politics is local, and the knowledge gap between the urban and rural populace is the biggest determinant of the outcome of an election.
 
-The proposed structure will be installed in every community and will take the form of a library which will represent a think tank, lighthouse, and the aluta square of the community. It is aimed at bringing together people (children, women, and men) to participate in, contribute to and benefit from growth processes in ways that recognize the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth. 
+The proposed structure of youth governance will be installed in every community and will take the form of a library which will represent a think tank, lighthouse, and the aluta square of the community. It is aimed at bringing together people (children, women, and men) to participate in, contribute to and benefit from growth processes in ways that recognize the value of their contributions, respect their dignity and make it possible to negotiate a fairer distribution of the benefits of growth. 
 
 It can also serve as a spot for the people of the community to brainstorm amongst themselves and also a meeting point for the people and government to share ideas that will proffer solutions to issues facing their community.
 
